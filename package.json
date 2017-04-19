@@ -1,0 +1,15 @@
+{
+  "name": "thread",
+  "version": "1.0.0",
+  "description": "EROFT final project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jade Lin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
